@@ -2,7 +2,7 @@
 
 <!--Actividad 1.2-->
 
-<!--Creamos una agenda-->
+<!--Creamos una agenda nueva de pruebas para entorno-->
 <agenda>
 <!--Dentro de la agenda creamos contactos-->
    <contactos>
@@ -10,6 +10,6 @@
     <nombre>Alumno</nombre>
     <ciudad cp="15500">Ciudad Real </ciudad>
     <email>alumno@gmail.com</email>
-    <casado v="no"/>
+    <casado v="no se sabe"/>
   </contactos>
 </agenda>
