@@ -1,0 +1,21 @@
+<?xml version="1.0" endcoding= "iso-8859-1"?>
+<exámenes>
+  <materia>
+  <nombre>Lenguaje de marcas</nombre>
+  <aprobados>20</aprobados>
+  <suspensos>6</suspensos>
+  <unidades>4</unidades>
+ </materia>
+<materia>
+  <nombre>Sistemas operativos</nombre>
+  <aprobados>7</aprobados>
+  <suspensos>20</suspensos>
+  <unidades>5</unidades>
+ </materia>
+<materia>
+  <nombre>Programación</nombre>
+  <aprobados>18</aprobados>
+  <suspensos>9</suspensos>
+  <unidades>6</unidades>
+ </materia>
+ </exámenes>
