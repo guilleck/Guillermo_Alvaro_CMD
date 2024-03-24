@@ -1,0 +1,15 @@
+<?xml version="1.0" endcoding= "UTF-8"?>
+
+<!--Actividad 1.2-->
+
+<!--Creamos una agenda-->
+<agenda>
+<!--Dentro de la agenda creamos contactos-->
+   <contactos>
+   <!--De cada contacto vamos a poner su nombre, su ciudad, su email y si está casado o no-->
+    <nombre>Alumno</nombre>
+    <ciudad cp="15500">Ciudad Real </ciudad>
+    <email>alumno@gmail.com</email>
+    <casado v="no"/>
+  </contactos>
+</agenda>
